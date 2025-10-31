@@ -125,7 +125,7 @@ program
 
       if (result.allShifts.length > 10) {
         console.log(
-          chalk.gray(`\n   ... and ${result.allShifts.length - 10} more shifts`)
+          chalk.gray(`\n   ... and ${result.allShifts.length} more shifts`)
         );
       }
 
